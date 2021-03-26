@@ -8,13 +8,13 @@
 
 ### Pantallazos
 
-## Funcion Logaritmo
+#### Funcion Logaritmo
 
-![1](https://github.com/stevengarzon7/ParcialArep2Tercio/blob/master/img/imagen1.png?raw=true)
+![1](https://github.com/stevengarzon7/ParcialArep2doTercio/blob/master/img/imagen1.png?raw=true)
 
-## Funcion Seno
+#### Funcion Seno
 
-![2](https://github.com/stevengarzon7/ParcialArep2Tercio/blob/master/img/imagen2.png?raw=true)
+![2](https://github.com/stevengarzon7/ParcialArep2doTercio/blob/master/img/imagen2.png?raw=true)
 
 
 Version: 1.0
