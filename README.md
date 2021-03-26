@@ -8,11 +8,11 @@
 
 ### Pantallazos
 
-##Funcion Logaritmo
+## Funcion Logaritmo
 
 ![1](https://github.com/stevengarzon7/ParcialArep2Tercio/blob/master/img/imagen1.png?raw=true)
 
-##Funcion Seno
+## Funcion Seno
 
 ![2](https://github.com/stevengarzon7/ParcialArep2Tercio/blob/master/img/imagen2.png?raw=true)
 
@@ -22,7 +22,7 @@ Fecha: 26 de marzo 2021
 
 ### Autores
 
-* **Steven Garzon** - *Laboratorio N°3* - [stevengarzon7](https://github.com/stevengarzon7)
+* **Steven Garzon** -  [stevengarzon7](https://github.com/stevengarzon7)
 
 
 
