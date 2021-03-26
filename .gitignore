@@ -21,4 +21,4 @@ hs_err_pid*
 proyectos creados con maven
 target/
 # Ignora archivo .DS_Store en Mac
-.DS_Store
+.DS_Store.DS_Store
