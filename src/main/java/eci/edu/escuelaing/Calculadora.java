@@ -11,8 +11,8 @@ package eci.edu.escuelaing;
  * @author imac
  */
 public class Calculadora {
-    public double aSin(double num){
-       return Math.asin(num);
+    public double sin(double num){
+       return Math.sin(num);
         
     }
      public double log(double num){

@@ -8,13 +8,13 @@ public class SparkService {
 		port(getPort());
 
 		
-		get("/asin", (req, res) -> {
+		get("/sin", (req, res) -> {
                         Calculadora c = new Calculadora();
 			res.status(200);
 			res.type("application/json");
 			String value = req.queryParamsValues("value")[0];
-			double num=c.aSin(Double.parseDouble(value));
-                         return "{\"operation\": \"asin\", \"input\":"+value+",\"output\": "+num+"}";
+			double num=c.sin(Double.parseDouble(value));
+                         return "{\"operation\": \"sin\", \"input\":"+value+",\"output\": "+num+"}";
 		});
 		
 		get("/log", (req, res) -> {
