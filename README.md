@@ -16,6 +16,15 @@
 
 ![2](https://github.com/stevengarzon7/ParcialArep2doTercio/blob/master/img/imagen2.png?raw=true)
 
+#### Funcion Logaritmo en AWS
+
+![1](https://github.com/stevengarzon7/ParcialArep2doTercio/blob/master/img/imagen3.png?raw=true)
+
+#### Funcion Seno EN AWS
+
+![2](https://github.com/stevengarzon7/ParcialArep2doTercio/blob/master/img/imagen4.png?raw=true)
+
+
 
 Version: 1.0
 Fecha: 26 de marzo 2021
